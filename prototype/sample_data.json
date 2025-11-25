@@ -1,0 +1,11 @@
+{
+  "patients": [
+    {
+      "name": "John Doe",
+      "age": 68,
+      "conditions": ["hypertension", "diabetes"],
+      "medications": ["Metformin", "Lisinopril"],
+      "symptoms": ["fatigue", "dizziness"]
+    }
+  ]
+}
